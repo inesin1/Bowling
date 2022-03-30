@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingTest2", "BowlingTest2\BowlingTest2.csproj", "{ECAF71C1-0101-4FD2-B68C-54BBEE1093BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECAF71C1-0101-4FD2-B68C-54BBEE1093BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAF71C1-0101-4FD2-B68C-54BBEE1093BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAF71C1-0101-4FD2-B68C-54BBEE1093BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAF71C1-0101-4FD2-B68C-54BBEE1093BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D2939D4-D65E-4CC4-97F4-26184D889FE2}
+	EndGlobalSection
+EndGlobal
